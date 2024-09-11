@@ -40,3 +40,36 @@ This is a simple To-Do List application built using Python's Tkinter library. It
     ```
 
 ## File Structure
+
+`Project Directory 
+|
+|-- main.py          # The main Python script for the To-Do List application
+|-- README.md             # A markdown file providing information about the project
+|-- images                # A directory containing all the image files used in the project
+|   |-- task.png          # Icon or image for the task
+|   |-- topbar.png        # Image for the top bar
+|   |-- dock.png          # Image for the dock section
+|   |-- delete.png        # Icon or image for the delete button
+|
+|-- tasklist.txt   `
+
+## How to Use
+
+1. **Add Tasks**:
+    - Enter your task in the text field.
+    - Click the "ADD" button to add the task to the list.
+
+2. **Delete Tasks**:
+    - Select the task you want to delete by clicking on it in the list.
+    - Click the delete button at the bottom to remove the selected task.
+
+3. **View All Tasks**:
+    - The tasks will be displayed in the list, and you can scroll through them using the scrollbar.
+
+## Screenshots
+
+![To-Do List Application](https://github.com/user-attachments/assets/4c50190a-b79d-4775-a367-1bfd9864a104)
+
+## Contributing
+
+Feel free to fork this repository, submit pull requests, or report issues. Contributions are welcome!
