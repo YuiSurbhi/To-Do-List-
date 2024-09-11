@@ -14,7 +14,7 @@ This is a simple To-Do List application built using Python's Tkinter library. It
 - Python 3.x
 - Tkinter (comes pre-installed with Python)
 
-## Installation
+## 📥 Installation
 
 1. **Clone the Repository:**
 
