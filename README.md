@@ -1,4 +1,4 @@
-# To-Do List Application
+# 📝 To-Do List Application
 
 This is a simple To-Do List application built using Python's Tkinter library. It allows users to add, display, and delete tasks. The tasks are saved to a file (`tasklist.txt`) to reload them when the application is reopened.
 
@@ -9,7 +9,7 @@ This is a simple To-Do List application built using Python's Tkinter library. It
 - **Delete Tasks**: Remove tasks by selecting them from the list and clicking the delete button.
 - **Persistent Storage**: Tasks are saved in a file (`tasklist.txt`) to ensure they persist between sessions.
 
-## Requirements
+## 📦 Requirements
 
 - Python 3.x
 - Tkinter (comes pre-installed with Python)
@@ -19,7 +19,7 @@ This is a simple To-Do List application built using Python's Tkinter library. It
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/todo-list-application.git
+    https://github.com/YuiSurbhi/To-Do-List-.git
     cd todo-list-application
     ```
 
@@ -36,12 +36,13 @@ This is a simple To-Do List application built using Python's Tkinter library. It
     Run the following command in your terminal or command prompt:
 
     ```bash
-    python todo_list.py
+    python main.py
     ```
 
-## File Structure
+## 📂 File Structure
 
-`Project Directory 
+```bash
+Project Directory 
 |
 |-- main.py          # The main Python script for the To-Do List application
 |-- README.md             # A markdown file providing information about the project
@@ -51,7 +52,8 @@ This is a simple To-Do List application built using Python's Tkinter library. It
 |   |-- dock.png          # Image for the dock section
 |   |-- delete.png        # Icon or image for the delete button
 |
-|-- tasklist.txt   `
+|-- tasklist.txt
+```
 
 ## How to Use
 
@@ -66,10 +68,10 @@ This is a simple To-Do List application built using Python's Tkinter library. It
 3. **View All Tasks**:
     - The tasks will be displayed in the list, and you can scroll through them using the scrollbar.
 
-## Screenshots
+## 📸 Screenshots
 
 ![To-Do List Application](https://github.com/user-attachments/assets/4c50190a-b79d-4775-a367-1bfd9864a104)
 
-## Contributing
+## 🤝 Contributing
 
 Feel free to fork this repository, submit pull requests, or report issues. Contributions are welcome!
