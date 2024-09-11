@@ -20,7 +20,7 @@ This is a simple To-Do List application built using Python's Tkinter library. It
 
     ```bash
     https://github.com/YuiSurbhi/To-Do-List-.git
-    cd todo-list-application
+    cd To-Do List Application
     ```
 
 2. **Download the Necessary Images:**
